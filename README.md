@@ -65,7 +65,7 @@ This allows users to quickly identify harmful, hateful, or trending content and 
    * Extract text using PyTesseract
    * Preprocess and classify extracted text
 
-5. **Result Visualization** –
+5. **Result Visualization** -
 
    * Generate classification reports
    * Present insights via web-based dashboard
